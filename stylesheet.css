@@ -23,3 +23,13 @@ h1 {
     padding: 12px;
     border: 2px solid black;
 }
+
+/* Styling the link/hovering over it */
+a {
+    color: blue; 
+    text-decoration: none; 
+}
+a:hover{
+    color: purple;
+    text-decoration: underline;
+}
